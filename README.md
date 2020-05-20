@@ -1,7 +1,7 @@
 # Multiplayer-Games
 OST Project Sem-6
 
-Project Overview
+# Project Overview
 
 The aim of the project is to show working of a client server application with the help of socket programming. Best application to show this is through a massive multiplayer online game which has hundreds of clients interacting simultaneously with the server.
 
